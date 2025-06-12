@@ -1,0 +1,9 @@
+ToonBoomAnimationInc PaletteFile 2
+Solid    Black                      0x0caf9cd7f76017e6   0   0   0 255
+Solid    White                      0x0caf9cd7f76017e9 255 255 255 255
+Solid    skin                       0x0caf9cd7f76017ec 226 189 156 255
+Solid    hair                       0x0caf9cd7f76017ef  48  39  31 255
+Solid    shirt                      0x0caf9cd7f76017f2 129 116  97 255
+Solid    pants                      0x0000000000000003  38  33  27 255
+Solid    "prosthetic hand"          0x0cb16186d46133cc  56  82  57 255
+Solid    "boots and belt"           0x0cb16186d4613aef  35  35  35 255
